@@ -169,6 +169,8 @@ After the tool is setup, the best way to test is to open the URL for the page in
 
 The tool would print the logs of the pictures and metadata transferred on the page that opens. An individual success message is added for each picture uploaded.
 
+**Important note:** Flickr albums need to be created and placed in sets before you can upload photos.
+
 ## Other Useful Links
 
 * [Flickr: API keys](http://www.flickr.com/services/api/misc.api_keys.html) - This is a good starting point for creating a new API key.
